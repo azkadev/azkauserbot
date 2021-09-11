@@ -7,7 +7,7 @@ Saya belum mengreleasnya karena saya membutuhkan komputer yang bisa nyala 24jam 
 
 Tolong Bantu Terjemahkan ke bahasa kalian ya terimakasih
 
-## ReadmMe English
+## ReadMe English
 
 Azka User Bot is a telegram bot project for cloning all bots, you can request all features.
 
