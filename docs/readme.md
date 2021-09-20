@@ -2,12 +2,26 @@
 
 ## Extra Variable
 ```bash
-{fromfirstname} for print user firstname
-{fromlastname} for print user lastname
-{fromfullname} for print user full name
-{fromcountry} for print user country eg indonesia
-{fromusername} for print user name 
-{chattitle} for print chat title
-{chatusername} for print chat username
-{suasana} for print suasana eg morning
+{username}
+{userfirstname}
+{userlastname}
+{userid}
+{userfullname}
+{userlocation}
+{chattitle}
+{chatusername}
+{chattype}
+{chatid}
+{suasana}
+{jam}
+{menit}
+{detik}
+{hari}
+{bulan}
+{nobulan}
+{tahun}
+{daymonthyear}
+{monthdayyear}
+{ddmmyear}
+{mmddyear}
 ```
