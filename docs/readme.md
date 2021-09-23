@@ -1,5 +1,14 @@
 # Docs
 
+## Extra Text
+```bash
+hay
+h[la]+o
+^(@indonesia.*)$
+#ask
+#quest
+```
+
 ## Extra Variable
 ```bash
 {username} print username.
